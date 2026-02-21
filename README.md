@@ -12,4 +12,4 @@ Recriar o front-end do site da FATEC, focando na melhoria do design visual e na 
 - **Navegação Intuitiva**: Estrutura de navegação simplificada e fácil de usar.
 - **Otimização de Performance**: Redução do tempo de carregamento e melhora da experiência
 
-## Tecnologias Uti
+## Tecnolog
