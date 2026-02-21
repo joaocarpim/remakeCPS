@@ -13,6 +13,3 @@ Recriar o front-end do site da FATEC, focando na melhoria do design visual e na 
 - **Otimização de Performance**: Redução do tempo de carregamento e melhora da experiência
 
 ## Tecnologias Utilizadas
-
-- **HTML5**
-
