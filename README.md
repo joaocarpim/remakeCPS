@@ -16,5 +16,4 @@ Recriar o front-end do site da FATEC, focando na melhoria do design visual e na 
 
 - **HTML5**
 - **CSS3** com utilização de frameworks como Bootstrap ou Tailwind CSS
-- **JavaScript** p
 
