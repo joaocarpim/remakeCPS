@@ -9,4 +9,4 @@ Recriar o front-end do site da FATEC, focando na melhoria do design visual e na 
 ## Funcionalidades
 
 - **Design Responsivo**: Interface adaptável a diferentes dispositivos desktops
-- **Navegação Intuitiva**: Estrutura de navegação simplific
+- **Navegação Intuitiva**: Estrutura de navegação simpli
